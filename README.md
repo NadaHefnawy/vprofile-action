@@ -7,9 +7,9 @@ In this project, I implemented a GitOps workflow to manage and deploy both infra
 
 -Created CI/CD pipelines using GitHub Actions to automate the deployment process.
    
-   -The infrastructure pipeline manages AWS resources using Terraform.
+  - -The infrastructure pipeline manages AWS resources using Terraform.
    
-   -The application pipeline builds, tests, and deploys the application using Docker, Maven, and Helm.
+  - -The application pipeline builds, tests, and deploys the application using Docker, Maven, and Helm.
 
 -Ensured that all changes to the infrastructure and application are tracked and versioned in Git, following GitOps principles.
 
